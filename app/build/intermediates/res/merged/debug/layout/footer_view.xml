@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<Button xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/footerView"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+        android:layout_marginTop="150dp"
+    android:gravity="center_horizontal"
+    android:text="@string/add_new_todo_item_string"
+    android:textSize="24sp" >
+
+</Button><!-- From: file:/C:/Users/Eduardo/AndroidStudioProjects/Coursera/First-Course/ThingsToDo/app/src/main/res/layout/footer_view.xml -->
